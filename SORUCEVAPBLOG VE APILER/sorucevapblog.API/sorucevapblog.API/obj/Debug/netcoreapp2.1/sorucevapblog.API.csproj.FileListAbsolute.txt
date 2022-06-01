@@ -1,0 +1,14 @@
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\bin\Debug\netcoreapp2.1\sorucevapblog.API.deps.json
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\bin\Debug\netcoreapp2.1\sorucevapblog.API.runtimeconfig.json
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\bin\Debug\netcoreapp2.1\sorucevapblog.API.runtimeconfig.dev.json
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\bin\Debug\netcoreapp2.1\sorucevapblog.API.dll
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\bin\Debug\netcoreapp2.1\sorucevapblog.API.pdb
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\obj\Debug\netcoreapp2.1\sorucevapblog.API.csprojAssemblyReference.cache
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\obj\Debug\netcoreapp2.1\sorucevapblog.API.csproj.CoreCompileInputs.cache
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\obj\Debug\netcoreapp2.1\sorucevapblog.API.RazorAssemblyInfo.cache
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\obj\Debug\netcoreapp2.1\sorucevapblog.API.RazorAssemblyInfo.cs
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\obj\Debug\netcoreapp2.1\sorucevapblog.API.AssemblyInfoInputs.cache
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\obj\Debug\netcoreapp2.1\sorucevapblog.API.AssemblyInfo.cs
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\obj\Debug\netcoreapp2.1\sorucevapblog.API.RazorTargetAssemblyInfo.cache
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\obj\Debug\netcoreapp2.1\sorucevapblog.API.dll
+c:\users\ahmet\source\repos\sorucevapblog.API\sorucevapblog.API\obj\Debug\netcoreapp2.1\sorucevapblog.API.pdb
